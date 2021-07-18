@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.background {
+  background-color: #1e293b;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #f0bb03;
+  font-family: 'Bree Serif';
+  font-size: 60px;
+}
+.caption {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 30px;
+}
+.subscribe-toggle-btn {
+  background-color: #ffffff;
+  border-style: none;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+}
